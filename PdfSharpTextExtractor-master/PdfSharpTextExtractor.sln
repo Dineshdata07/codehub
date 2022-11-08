@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PdfSharpTextExtractor", "PdfSharpTextExtractor.csproj", "{477167B8-7E99-4FD5-9897-140847B4AC02}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "testpdf ext", "..\testpdf ext\testpdf ext.vbproj", "{52529038-2BB2-478F-8C5D-B1F23FC51035}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{477167B8-7E99-4FD5-9897-140847B4AC02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{477167B8-7E99-4FD5-9897-140847B4AC02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{477167B8-7E99-4FD5-9897-140847B4AC02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{477167B8-7E99-4FD5-9897-140847B4AC02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52529038-2BB2-478F-8C5D-B1F23FC51035}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52529038-2BB2-478F-8C5D-B1F23FC51035}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52529038-2BB2-478F-8C5D-B1F23FC51035}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52529038-2BB2-478F-8C5D-B1F23FC51035}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11380CAF-138D-4C85-9AD1-D95E4C0C527E}
+	EndGlobalSection
+EndGlobal

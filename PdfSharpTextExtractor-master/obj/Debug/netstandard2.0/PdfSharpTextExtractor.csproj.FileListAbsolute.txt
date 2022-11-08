@@ -1,0 +1,10 @@
+C:\Users\dines\Desktop\PdfSharpTextExtractor-master\bin\Debug\netstandard2.0\PdfSharpTextExtractor.deps.json
+C:\Users\dines\Desktop\PdfSharpTextExtractor-master\bin\Debug\netstandard2.0\PdfSharpTextExtractor.dll
+C:\Users\dines\Desktop\PdfSharpTextExtractor-master\bin\Debug\netstandard2.0\PdfSharpTextExtractor.pdb
+C:\Users\dines\Desktop\PdfSharpTextExtractor-master\obj\Debug\netstandard2.0\PdfSharpTextExtractor.csproj.AssemblyReference.cache
+C:\Users\dines\Desktop\PdfSharpTextExtractor-master\obj\Debug\netstandard2.0\PdfSharpTextExtractor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dines\Desktop\PdfSharpTextExtractor-master\obj\Debug\netstandard2.0\PdfSharpTextExtractor.AssemblyInfoInputs.cache
+C:\Users\dines\Desktop\PdfSharpTextExtractor-master\obj\Debug\netstandard2.0\PdfSharpTextExtractor.AssemblyInfo.cs
+C:\Users\dines\Desktop\PdfSharpTextExtractor-master\obj\Debug\netstandard2.0\PdfSharpTextExtractor.csproj.CoreCompileInputs.cache
+C:\Users\dines\Desktop\PdfSharpTextExtractor-master\obj\Debug\netstandard2.0\PdfSharpTextExtractor.dll
+C:\Users\dines\Desktop\PdfSharpTextExtractor-master\obj\Debug\netstandard2.0\PdfSharpTextExtractor.pdb

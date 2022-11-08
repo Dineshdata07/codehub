@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "A+U2l4stjjMWuCY7QTWLUPi8ptzdsAUALcS8EWOXOhEE/hGTJnTIK55HyvPiGHS7Z1yDbMRBGjxPTqLtfAH7BQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dines\\Desktop\\PdfSharpTextExtractor-master\\PdfSharpTextExtractor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dines\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\dines\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\dines\\.nuget\\packages\\pdfsharpnetstandard2\\1.51.4845\\pdfsharpnetstandard2.1.51.4845.nupkg.sha512",
+    "C:\\Users\\dines\\.nuget\\packages\\system.drawing.common\\4.5.0\\system.drawing.common.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

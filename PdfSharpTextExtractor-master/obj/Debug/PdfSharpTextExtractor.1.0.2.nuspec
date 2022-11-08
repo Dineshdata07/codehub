@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>PdfSharpTextExtractor</id>
+    <version>1.0.2</version>
+    <authors>AlexArchen</authors>
+    <licenseUrl>https://raw.githubusercontent.com/alexarchen/PdfSharpTextExtractor/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/alexarchen/PdfSharpTextExtractor</projectUrl>
+    <description>Simple Pdf text extractor based on PDFSharp. Supports both single and two-byte fonts, ToUnicode maps, Encodings. Doesn't support precise symbol positioning on page so text order can differ from the original.</description>
+    <copyright>Copyright 2019 AlexArchen</copyright>
+    <tags>pdf text extract</tags>
+    <repository type="github" url="https://github.com/alexarchen/PdfSharpTextExtractor" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="PDFsharpNetStandard2" version="1.51.4845" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\dines\Desktop\PdfSharpTextExtractor-master\bin\Debug\netstandard2.0\PdfSharpTextExtractor.dll" target="lib\netstandard2.0\PdfSharpTextExtractor.dll" />
+  </files>
+</package>
